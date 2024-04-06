@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas Vindas ao meu Perfil 💙 👋
 
-<!--
-**Kangoo10/Kangoo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kangoo10
 
-Here are some ideas to get you started:
+- Eu estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem  java script
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+  ### voce pode entrar em contato comigo 📧
+  
+  josemar.mariano.oliveira@escola.pr.gov.com.br
+
+  ![](https://media.tenor.com/t_bbcG34Z44AAAAM/tbhss-vite-jarrive-camionnette-cape.gif)
+
